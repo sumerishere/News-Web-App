@@ -1,0 +1,3 @@
+#news_API
+#const API_KEY = "64303e802b944bbd9504b522ed0a96e6";
+#const url = "https://newsapi.org/v2/everything?q=";
